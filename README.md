@@ -10,7 +10,21 @@ The code has been tested on PyTorch 1.10.2 and Cuda 11.7.
 After obtaining the "train.py" code for the project, run the file to train the model. However, before doing so, ensure that the training dataset is prepared.  
 
 ## Evaluation
-You can utilize the "val.py" code within the project to assess a pre-trained model. The pre-trained weights can be located in the "models" folder.  
+You can utilize the "val.py" code within the project to assess a pre-trained model. The pre-trained weights can be located in the "models" folder. 
+
+## Contact
+Issues, comments and questions, please contact Zemin Cai([zmcai@stu.edu.cn](mailto:zmcai@stu.edu.cn))  
+Any scientific work that makes use of our code should appropriately mention this in the text and cite our paper In JBHI(see below).  
+@ARTICLE{Cai2026,  
+  author={Cai, Zemin and Luo, Jiarui and Lai, Jian-huang and Chen, Fu},  
+  journal={IEEE Journal of Biomedical and Health Informatics},   
+  title={RGShuffleNet: An Efficient Design for Medical Image Segmentation on Portable Devices},   
+  year={2026},  
+  volume={},  
+  number={},  
+  pages={1-19},  
+  doi={10.1109/JBHI.2026.3663638}  
+}  
 
 ## Acknowledgements
 Thanks to [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch) for providing awesome repos! These have been very helpful for the project.  
